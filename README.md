@@ -2,7 +2,7 @@
   <h1>Hi there 👋</h1>
 </div>
 <div id="badges" align="center">
-  <a href="https://jesufemi.dev">
+  <a href="https://jesufemi-dev.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-ef9273?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://linkedin.com/in/jesufemi-oladapo">
